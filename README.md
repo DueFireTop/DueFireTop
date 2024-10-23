@@ -15,4 +15,11 @@
 - 🌟 Currently interests in Multi-Agent Debate, LLMs, Vue, and JavaScript.
 - 💬 Ask me about anything: zhangliyan6426@gmail.com
 
+
+## Languages and Tools:
+<p align="center" width="1000"> 
+  <img align="left" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DueFireTop&layout=compact&theme=tokyonight">
+  <img align="left" width="550" src="https://go-skill-icons.vercel.app/api/icons?i=py,c,java,html,css,js,md,latex,vue,pytorch,nodejs,langchain,chatgpt,vscode&perline=8">
+</p>
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=DueFIreTop" />
