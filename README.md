@@ -1,16 +1,18 @@
-## Hi, I'm 🤔DueFireTop🤔
+# **Hi there :grin:, I'm :sparkles:DueFireTop:sparkles:**
+<table width="100" align='center'>
+  <tr>
+    <td align='center' width="80">
+      <a href="https://x.com/DueFireTop_ML"><img src="https://github.com/user-attachments/assets/68faf68e-3821-41ad-8eeb-1e873fa7771b"></a>
+    </td>
+    <td align='center' width="80">
+      <a href="https://github.com/DueFireTop"><img src="https://github.com/user-attachments/assets/c81bb87b-0a56-4801-af65-8f2bedcdf3fd"></a>
+    </td>
+  </tr>
+</table>
 
-<!--
-**DueFireTop/DueFireTop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 🏫 A candidate for the full time Master degree in NUC.
+- 🌟 Currently interests in Multi-Agent Debate, LLMs, Vue, and JavaScript.
+- 💬 Ask me about anything: zhangliyan6426@gmail.com
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DueFIreTop" />
