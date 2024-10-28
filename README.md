@@ -18,8 +18,8 @@
 
 ## Languages and Tools:
 <p align="center" width="1000"> 
-  <img align="center" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xiaokang2022&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6">
-  <img align="center" width="550" src="https://go-skill-icons.vercel.app/api/icons?i=py,c,java,html,css,js,md,latex,vue,pytorch,nodejs,langchain,chatgpt,vscode&perline=7">
+  <img align="center" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DueFireTop&layout=compact&theme=tokyonight">
+  <img align="center" width="500" src="https://go-skill-icons.vercel.app/api/icons?i=py,c,java,html,css,js,md,latex,vue,pytorch,nodejs,langchain,chatgpt,vscode&perline=7">
 </p>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=DueFIreTop" />
